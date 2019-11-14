@@ -1,4 +1,4 @@
 [submodule "components/libwebsockets"]
 	path = components/libwebsockets
-	url = https://github.com/warmcat/libwebsockets
-	branch = esp32
+	url = https://github.com/hero-laboratories/libwebsockets.git
+	branch = hero_labs
